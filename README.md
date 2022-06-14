@@ -10,4 +10,4 @@ Learning basic data handling technique from W3School.
 
 **June 14th, 2022**
 - Project started
-- Current progress: cleaning data, fill with mean/mode/median
+- Current progress: cleaning data, fill in null values with mean/mode/median
